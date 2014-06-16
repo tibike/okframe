@@ -8,7 +8,7 @@
  */
 
 /**
- * install okframe from this file
+ * install okframe from this script
  *
  * @category    Core
  * @package     PACKAGE NAME
